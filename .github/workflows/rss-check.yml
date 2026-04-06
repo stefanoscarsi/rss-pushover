@@ -5,6 +5,9 @@ on:
     - cron: '*/10 * * * *'   # ogni 10 minuti
   workflow_dispatch:           # run manuale per test
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   check:
     runs-on: ubuntu-latest
