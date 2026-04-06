@@ -1,0 +1,10 @@
+# The Verge
+https://www.theverge.com/rss/gaming/index.xml
+https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+https://www.theverge.com/rss/tech/index.xml
+
+# TechCrunch
+https://techcrunch.com/feed/
+
+# Videocardz
+https://videocardz.com/feed/
