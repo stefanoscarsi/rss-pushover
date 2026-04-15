@@ -5,6 +5,3 @@ https://www.theverge.com/rss/tech/index.xml
 
 # TechCrunch
 https://techcrunch.com/feed/
-
-# Videocardz
-https://videocardz.com/feed/
